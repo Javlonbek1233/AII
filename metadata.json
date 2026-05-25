@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris AI SaaS Platform",
+  "description": "A premium, futuristic SaaS landing page with an interactive AI-powered analytics dashboard, fully responsive with state-of-the-art visual design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
